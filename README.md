@@ -10,7 +10,7 @@ Facts are fetched from `http://numbersapi.com/` using Axios and managed by React
 -------------------------
 - Clone project
 - Go to fact-of-the-day folder
-- Run `npm start`
+- Run `npm install` and `npm start`
 - Open http://localhost:3000 in your browser
 - Done
 
